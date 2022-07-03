@@ -2,7 +2,7 @@ import React from 'react';
 import { ComponenteA } from './componenteA';
 import ComponenteB from './componenteB';
 const ComponentesList = () => {
-    const defaultC = new ComponenteA('elian','pareja','elianpareja@ghmal.com',false);
+    const defaultC = new ComponenteA('mario','quintana','marioquintana@ghmal.com',false);
     return (
         <div>
             <ComponenteB props={ defaultC }/>
