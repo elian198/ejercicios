@@ -12,11 +12,10 @@ function App() {
    <h5>
     Contenenido de props.children
    </h5>
-   </Ejemplo4>*/}
+   </Ejemplo4>
    <GreetingStyles name='Martin'></GreetingStyles>
-   <Clock />
+   <Clock />*/}
    <ClockF />
-   <Ejemplo3 />
   </div>
   );
 }
