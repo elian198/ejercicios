@@ -1,0 +1,47 @@
+html,body{
+  background-color: #1b1b32;
+}
+.App{
+ margin-top: 100px;
+margin-left: 100px;
+ 
+}
+.contenedor{
+  margin: 10px;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+.contenedor-botones{
+  margin-left: 800px;
+  margin: 5px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+;
+}
+.imagen-botones{
+  width: 50%;;
+  height: 100px;
+  margin-left: 260px;
+}
+.contenedor-contador{
+  width: 100%;
+}
+.contador{
+  width: 150px;
+  height: 150px;
+  color: white;
+  font-size: 90px;
+  text-align: center;
+  border:2px solid white;
+  padding-top: 25px;
+  margin-left: 500px;
+}

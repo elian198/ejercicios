@@ -1,0 +1,19 @@
+.boton-clic{
+    background-color: aqua;
+}
+.boton-reiniciar{
+    background-color: blueviolet;
+}
+button{
+    font-size: 24px;;
+    border-style: double;
+    border: 2px solid white;
+    border-radius: 5%;
+    margin: 7px;
+    width: 25%;
+    font-family: Roboto;
+    cursor:pointer;
+}
+.boton-clic:hover, .boton-reiniciar:hover{
+    background: aquamarine;
+}
